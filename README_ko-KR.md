@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **49** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 27일 토요일 오전 4시 30분 24초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 27일 토요일 오전 8시 22분 58초 UTC** |
 
 </div>
 
@@ -1876,6 +1876,6 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-27T04:30:24.710Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-27T08:22:58.446Z</sub>
 
 </div>
