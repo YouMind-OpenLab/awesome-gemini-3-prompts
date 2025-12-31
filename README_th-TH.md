@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **49** |
 | ⭐ แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 31 ธันวาคม พ.ศ. 2568 เวลา 16 นาฬิกา 22 นาที 35 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพุธที่ 31 ธันวาคม พ.ศ. 2568 เวลา 20 นาฬิกา 19 นาที 38 วินาที UTC** |
 
 </div>
 
@@ -1874,6 +1874,6 @@ SVG ของ {argument name="city_skyline_en" default="เส้นขอบฟ
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บข้อมูลนี้](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-31T16:22:35.708Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-12-31T20:19:38.296Z</sub>
 
 </div>
