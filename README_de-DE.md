@@ -88,7 +88,7 @@ Wenn Sie Raycast verwenden, können Sie die Argumente dynamisch ersetzen, um sch
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **49** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 30. Januar 2026 um 20:26:17 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 31. Januar 2026 um 01:44:59 UTC** |
 
 </div>
 
@@ -1875,6 +1875,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Einen Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit einem Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-01-30T20:26:17.391Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-01-31T01:44:59.754Z</sub>
 
 </div>
