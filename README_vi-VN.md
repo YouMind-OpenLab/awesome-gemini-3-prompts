@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **49** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 06:56:32 UTC Chủ Nhật, 24 tháng 5, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 09:51:13 UTC Chủ Nhật, 24 tháng 5, 2026** |
 
 </div>
 
@@ -1876,6 +1876,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-24T06:56:32.085Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-24T09:51:13.384Z</sub>
 
 </div>
