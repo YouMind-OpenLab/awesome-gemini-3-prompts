@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **49** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **martes, 26 de mayo de 2026, 9:40:55 p.m. UTC** |
+| 🔄 Última actualización | **miércoles, 27 de mayo de 2026, 3:28:59 a.m. UTC** |
 
 </div>
 
@@ -1875,6 +1875,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar una estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-26T21:40:55.996Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-27T03:28:59.381Z</sub>
 
 </div>
