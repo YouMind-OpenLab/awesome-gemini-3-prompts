@@ -88,7 +88,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **49** |
 | ⭐ Destaque | **0** |
-| 🔄 Última atualização | **segunda-feira, 29 de junho de 2026 às 03:34:28 UTC** |
+| 🔄 Última atualização | **segunda-feira, 29 de junho de 2026 às 08:55:42 UTC** |
 
 </div>
 
@@ -1875,6 +1875,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar uma estrela neste repositório](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-29T03:34:28.977Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-29T08:55:42.647Z</sub>
 
 </div>
