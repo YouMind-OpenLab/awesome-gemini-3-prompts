@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **49** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Monday, July 27, 2026 at 7:25:48 AM UTC** |
+| 🔄 Last Updated | **Monday, July 27, 2026 at 11:16:12 AM UTC** |
 
 </div>
 
@@ -1876,6 +1876,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:25:48.292Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:16:12.593Z</sub>
 
 </div>
