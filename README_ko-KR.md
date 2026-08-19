@@ -1866,7 +1866,7 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 
 ## ⭐ 스타 히스토리
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-gemini-3-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-gemini-3-prompts&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=YouMind-OpenLab/awesome-gemini-3-prompts&type=Date)](https://star-history.dera.page/#YouMind-OpenLab/awesome-gemini-3-prompts&Date)
 
 ---
 
