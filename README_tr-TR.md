@@ -88,7 +88,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **49** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **14 Eylül 2026 Pazartesi 17:35:47 UTC** |
+| 🔄 Son Güncelleme | **14 Eylül 2026 Pazartesi 22:55:46 UTC** |
 
 </div>
 
@@ -1875,6 +1875,6 @@ Ayrıntılı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasın
 **[📝 Bir istem gönder](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız ver](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-14T17:35:47.216Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-14T22:55:46.518Z</sub>
 
 </div>
